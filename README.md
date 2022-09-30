@@ -1,6 +1,6 @@
 ____
 ____
-_KOSONG DOANK_
+____KOSONG DOANK_
 ____
 ____
 <!---
