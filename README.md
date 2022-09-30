@@ -1,6 +1,6 @@
 ____
 ____
-     KOSONG DOANK_
+#KOSONG DOANK
 ____
 ____
 <!---
